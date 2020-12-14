@@ -7,7 +7,9 @@
 - 🤔 I’m looking for help with Java and AWS related doc
 - 💬 Ask me about android or cloud 
 - 📫 How to reach me:  [Twitter @Raamya07](https://twitter.com/Raamya07),[Youtube @RameshChoudhary](https://www.youtube.com/channel/UC_NN0eK6Cbu2HChypb7uGdg?view_as=subscriber),
-   [Linkedin @RameshChoudhary](https://www.linkedin.com/in/ramesh-choudhary07/),[Podcast @Haveyoumet....!](https://open.spotify.com/show/4HE3IYPeDK40aA97N9ThjO?si=8254XLttSXudITJsXHHhhg)
+   [Linkedin @RameshChoudhary](https://www.linkedin.com/in/ramesh-choudhary07/),[Podcast @Haveyoumet....!](https://open.spotify.com/show/4HE3IYPeDK40aA97N9ThjO?si=8254XLttSXudITJsXHHhhg), [Blog @RameshChoudhary](https://rameshchoudhary.me/)
+
+
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: If you try to shoot Ramesh in a dream, you better wake up and apologize
 -->
