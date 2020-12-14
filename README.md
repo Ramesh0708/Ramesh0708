@@ -26,17 +26,6 @@
 - ⚡ Fun fact **If you try to shoot Ramesh in a dream, you better wake up and apologize**
 
 
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-[➡️ \[more videos...\]](https://www.youtube.com/channel/UC_NN0eK6Cbu2HChypb7uGdg)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raamya07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raamya07" height="30" width="40" /></a>
