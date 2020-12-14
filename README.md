@@ -28,6 +28,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+[➡️ \[more videos...\]](https://www.youtube.com/channel/UC_NN0eK6Cbu2HChypb7uGdg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
