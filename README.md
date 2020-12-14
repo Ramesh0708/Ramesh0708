@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **with Java and AWS related doc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ramesh0708/](https:https://github.com/Ramesh0708/)
+- 👨‍💻 All of my projects are available at [https://github.com/Ramesh0708](https://github.com/Ramesh0708)
 
 - 📝 I regularly write articles on [https://rameshchoudhary.me/](https://rameshchoudhary.me/)
 
