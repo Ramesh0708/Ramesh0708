@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/raamya07" target="blank"><img src="https://img.shields.io/twitter/follow/raamya07?logo=twitter&style=for-the-badge" alt="raamya07" /></a> </p>
 
-- 🔭 I’m currently working on **Bluetooth Chat App**
+- 🔭 I’m currently working on **Ecommerce App**
 
 - 🌱 I’m currently learning **Java and preparing for AWS- Cloud Solution Architect Exam**
 
