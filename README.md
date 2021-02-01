@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/raamesh_07" target="blank"><img src="https://img.shields.io/twitter/follow/raamesh_07?logo=twitter&style=for-the-badge" alt="raamya07" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Mobile App**
+- 🔭 I’m currently working on **Whatsappstockmarketbot**
 
-- 🌱 I’m currently learning **Java and preparing for AWS- Cloud Solution Architect Exam**
+- 🌱 I’m currently learning **Android  and preparing for GCP- Associate Cloud Engineer Exam**
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
