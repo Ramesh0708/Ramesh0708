@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
-- 🤝 I’m looking for help with **with Java and AWS related doc**
+- 🤝 I’m looking for help with **with Android and GCP related doc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ramesh0708](https://github.com/Ramesh0708)
 
