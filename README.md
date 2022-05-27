@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/raamesh_07" target="blank"><img src="https://img.shields.io/twitter/follow/raamesh_07?logo=twitter&style=for-the-badge" alt="raamya07" /></a> </p>
 
-- 🔭 I’m currently working on **Whatsappstockmarketbot**
+- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Android  and preparing for GCP- Associate Cloud Engineer Exam**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
-- 🤝 I’m looking for help with **with Android and GCP related doc**
+- 🤝 I’m looking for help with **with Android and Cloud Services**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ramesh0708](https://github.com/Ramesh0708)
 
