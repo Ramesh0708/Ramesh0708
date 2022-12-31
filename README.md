@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ramesh0708](https://github.com/Ramesh0708)
 
-- 📝 I regularly write articles on [https://rameshchoudhary.me/](https://rameshchoudhary.me/)
+- 📝 I regularly write articles on [https://rameshchoudhary8675.medium.com/]([https://rameshchoudhary.me/](https://rameshchoudhary8675.medium.com/))
 
 - 💬 Ask me about **Android or Cloud**
 
