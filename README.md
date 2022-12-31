@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/hiranandaniguy" target="blank"><img src="https://img.shields.io/twitter/follow/hiranandaniguy?logo=twitter&style=for-the-badge" alt="hiranandaniguy" /></a> </p>
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **AWS Certified Solutions Architect Certification **
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
