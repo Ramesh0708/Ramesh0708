@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **AWS**
 
+- 🌱 I’m currently Reading **The Power of your subconscious mind**
+
 - 👯 I’m looking to collaborate on **with other content creators**
 
 - 🤝 I’m looking for help with **with Android and Cloud Services**
