@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/hiranandaniguy" target="blank"><img src="https://img.shields.io/twitter/follow/hiranandaniguy?logo=twitter&style=for-the-badge" alt="hiranandaniguy" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Certified Solutions Architect Certification **
+- 🔭 I’m currently working on **AWS Solutions Architect Certification**
 
 - 🌱 I’m currently learning **AWS**
 
-- 🌱 I’m currently Reading **The Power of your subconscious mind**
+- 🌱 I’m currently Reading **Conversation With God**
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
