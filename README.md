@@ -30,13 +30,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raamya07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raamya07" height="30" width="40" /></a>
+<a href="https://twitter.com/hiranandaniguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raamya07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ramesh-choudhary07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramesh-choudhary07/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14733210/ramesh-choudhary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14733210/ramesh-choudhary" height="30" width="40" /></a>
-<a href="https://fb.com/raamya07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raamya07" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12066742/ramesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14733210/ramesh-choudhary" height="30" width="40" /></a>
 <a href="https://medium.com/@rameshchoudhary8675" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rameshchoudhary8675" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc_nn0ek6cbu2hchypb7ugdg?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc_nn0ek6cbu2hchypb7ugdg?view_as=subscriber" height="30" width="40" /></a>
-<a href="/https://rameshchoudhary.me/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://rameshchoudhary.me/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hiranandaniguy/videos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc_nn0ek6cbu2hchypb7ugdg?view_as=subscriber" height="30" width="40" /></a>
+<a href="https://rameshchoudhary.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://rameshchoudhary.me/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
