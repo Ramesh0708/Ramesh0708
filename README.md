@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 🌱 I’m currently Reading **Energize Your Mind: Learn the Art of Mastering Your Thoughts**
+- 🌱 I’m currently Reading **The 5AM CLUB**
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ramesh0708](https://github.com/Ramesh0708)
 
-- 📝 I regularly write articles on [https://rameshchoudhary8675.medium.com/](https://rameshchoudhary8675.medium.com/)
+- 📝 I sometimes write articles on [https://rameshchoudhary8675.medium.com/](https://rameshchoudhary8675.medium.com/)
 
 - 💬 Ask me about **Android or Cloud**
 
