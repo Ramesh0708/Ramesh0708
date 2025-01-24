@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 🌱 I’m currently Reading **The 5AM CLUB**
+- 🌱 I’m currently Reading **I LOVE MONEY**
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
