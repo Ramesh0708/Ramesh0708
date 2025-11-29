@@ -25,15 +25,14 @@
 
 - 📄 Know about my experiences [https://rameshchoudhary.netlify.app/](https://rameshchoudhary.netlify.app/)
 
+- ⚡ Fun fact **If you try to shoot Ramesh in a dream, you better wake up and apologize**
+
 - ## 🚦 TrafficBot Pro – GitHub Marketplace
 
 [![TrafficBot Pro](https://img.shields.io/badge/TrafficBot%20Pro-GitHub%20Action-red?style=for-the-badge&logo=github)](https://github.com/marketplace/actions/trafficbot-pro)
 
 Automated multi-city traffic alerts delivered to Microsoft Teams using GitHub Actions.
 Zero servers, zero maintenance.
-
-
-- ⚡ Fun fact **If you try to shoot Ramesh in a dream, you better wake up and apologize**
 
 
 <h3 align="left">Connect with me:</h3>
